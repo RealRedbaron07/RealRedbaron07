@@ -1,144 +1,87 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+for my GitHub readme: <h1 align="center">Hi there, I'm Alp 👋 <img src="https://media.giphy.com/media/hvggHl6d00v7tV8b0P/giphy.gif" width="30px" alt="Waving hand emoji"/></h1>
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            color: #222;
-        }
+<p align="center">
+  <em>A Computer Science and Economics student at York University</em>
+</p>
 
-        h1, h2 {
-            font-weight: 600;
-        }
+---
 
-        #header {
-            margin-bottom: 40px;
-        }
+### 🙋‍♂️ About Me
 
-        #projects, #featured-project {
-            margin-top: 40px;
-        }
+- 🔭 I’m currently working on... **malparibot and JobApplier**
+- 🌱 I’m currently learning... **Python and Java**
+- 📫 How to reach me: **malpari@icloud.com**
 
-        .icon-row {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 12px;
-        }
+---
 
-        .section-box {
-            border-left: 4px solid #444;
-            padding-left: 12px;
-            margin-top: 20px;
-        }
+### 📌 Featured Project
 
-        ul {
-            margin-top: 10px;
-        }
+<p align="center">
+  <a href="https://github.com/RealRedbaron07/malparibot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RealRedbaron07&repo=malparibot&theme=tokyonight" alt="malparibot project card"/>
+  </a>
+</p>
 
-        .project-item {
-            margin-bottom: 25px;
-        }
+---
 
-        /* Ensures no fonts cause unsupported symbols */
-        * {
-            font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
+### 🛠️ My Skills & Tools
 
-<body>
+**Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
 
-    <!-- HEADER -->
-    <header id="header">
-        <h1>Mustafa Alp ARI</h1>
-        <p>Computer Engineering Student | Java Developer | Trading Systems Enthusiast</p>
-    </header>
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
 
+**Developer Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+</p>
 
-    <!-- ABOUT SECTION -->
-    <section id="about">
-        <h2>About Me</h2>
-        <div class="section-box">
-            <p>
-                I am a computer engineering student with experience in Java, Python-based trading systems,
-                data processing, and API-driven automation. I enjoy working on real-world projects that
-                require engineering thinking and measurable outcomes.
-            </p>
-        </div>
-    </section>
+---
 
+### 📊 My GitHub Stats
 
-    <!-- FEATURED PROJECT SECTION WITH SVG (NO EMOJI) -->
-    <section id="featured-project">
-        <h2>Featured Project</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RealRedbaron07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="RealRedbaron07's GitHub Stats" />
+</p>
 
-        <div class="icon-row">
-            <!-- SVG ICON (SOLID, NEVER BREAKS) -->
-            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2"
-                stroke-linecap="round" stroke-linejoin="round">
-                <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
-                <polyline points="2 17 12 22 22 17"></polyline>
-                <polyline points="2 12 12 17 22 12"></polyline>
-            </svg>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRedbaron07&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-            <span style="font-size: 1.25rem; font-weight: 500;">Python Trading Bot</span>
-        </div>
+---
 
-        <div class="section-box">
-            <p>
-                A Python-based automated trading bot using Streamlit, Yahoo Finance API, and Binance API.
-                This project strengthened my applied algorithmic trading skills, API integration knowledge,
-                and version control experience using Git.
-            </p>
+### 🤝 Let's Connect!
 
-            <ul>
-                <li>Built with Python 3</li>
-                <li>Streamlit interface for live strategy monitoring</li>
-                <li>Yahoo Finance + Binance real-time data feeds</li>
-                <li>Automated buy/sell signal algorithm</li>
-                <li>Git workflow experience (branching, PRs, versioning)</li>
-            </ul>
-        </div>
-    </section>
+<p align="center">
+  <a href="https://ca.linkedin.com/in/mustafa-alp-ari-897621289" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://instagram.com/malpari07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <a href="mailto:malpari@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+---
 
-    <!-- OTHER PROJECTS -->
-    <section id="projects">
-        <h2>Other Projects</h2>
-
-        <div class="project-item section-box">
-            <h3>Football Manager Transfer Market Analyzer (Java)</h3>
-            <p>
-                A Java-based analyzer that compares AI vs user transfer decisions using extracted save-file data.
-                Focuses on parsing, aggregation, and trend scoring.
-            </p>
-        </div>
-
-        <div class="project-item section-box">
-            <h3>Java Algorithms Practice Suite</h3>
-            <p>
-                A collection of Java algorithm implementations, including sorting, searching,
-                hashing, array and collection utilities, and interview-style problems.
-            </p>
-        </div>
-    </section>
-
-
-    <!-- CONTACT -->
-    <section id="contact">
-        <h2>Contact</h2>
-        <div class="section-box">
-            <p>Email: example@email.com</p>
-            <p>GitHub: github.com/yourprofile</p>
-        </div>
-    </section>
-
-</body>
-</html>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-∞-blue?style=for-the-badge" alt="Profile views"/>
+</p> 
