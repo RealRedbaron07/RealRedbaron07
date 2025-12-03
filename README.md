@@ -6,8 +6,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building: **malparibot** & **JobApplier**  
-- 🌱 Actively learning: **Python** & **Java**  
+- 🔭 Currently building: **malparibot** & **JobApplier**
+- 🌱 Learning: **Python** & **Java**
 - 📫 Contact: **malpari@icloud.com**
 
 ---
@@ -15,13 +15,18 @@
 ### ⭐ Featured Project  
 <p align="center">
   <a href="https://github.com/RealRedbaron07/malparibot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RealRedbaron07&repo=malparibot&theme=tokyonight&border_radius=15&hide_border=true" />
+    <img 
+      src="https://opengraph.githubassets.com/1/RealRedbaron07/malparibot"
+      alt="malparibot"
+      style="border-radius: 12px;"
+    />
   </a>
 </p>
 
 ---
 
 ## 🧰 Skills & Tools  
+
 ### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,python&theme=dark" />
