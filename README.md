@@ -55,11 +55,17 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealRedbaron07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="RealRedbaron07's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RealRedbaron07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRedbaron07&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRedbaron07&layout=compact&theme=tokyonight" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -83,5 +89,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-∞-blue?style=for-the-badge" alt="Profile views"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=RealRedbaron07&color=blue&style=for-the-badge" 
+    alt="Profile Views"
+  />
 </p>
