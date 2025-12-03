@@ -1,4 +1,4 @@
-for my GitHub readme: <h1 align="center">Hi there, I'm Alp 👋 <img src="https://media.giphy.com/media/hvggHl6d00v7tV8b0P/giphy.gif" width="30px" alt="Waving hand emoji"/></h1>
+<h1 align="center">Hi there, I'm Alp 👋 <img src="https://media.giphy.com/media/hvggHl6d00v7tV8b0P/giphy.gif" width="30px" alt="Waving hand emoji"/></h1>
 
 <p align="center">
   <em>A Computer Science and Economics student at York University</em>
@@ -55,7 +55,7 @@ for my GitHub readme: <h1 align="center">Hi there, I'm Alp 👋 <img src="https:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealRedbaron07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="RealRedbaron07's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RealRedbaron07&show_icons=true&theme=tokyonight" alt="RealRedbaron07's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -83,5 +83,5 @@ for my GitHub readme: <h1 align="center">Hi there, I'm Alp 👋 <img src="https:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-∞-blue?style=for-the-badge" alt="Profile views"/>
-</p> 
+  <img src="https://komarev.com/ghpvc/?username=RealRedbaron07&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
