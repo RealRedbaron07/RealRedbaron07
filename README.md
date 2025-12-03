@@ -1,86 +1,144 @@
-<!-- Premium Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=8BE9FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Alp+%F0%9F%91%8B;Computer+Science+and+Economics+Student;Developer+%7C+Builder+%7C+Learner;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
----
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            color: #222;
+        }
 
-### 🚀 About Me
-- 🔭 Currently building: **malparibot** & **JobApplier**
-- 🌱 Learning: **Python** & **Java**
-- 📫 Contact: **malpari@icloud.com**
+        h1, h2 {
+            font-weight: 600;
+        }
 
----
+        #header {
+            margin-bottom: 40px;
+        }
 
-### ⭐ Featured Project  
-<p align="center">
-  <a href="https://github.com/RealRedbaron07/malparibot">
-    <img 
-      src="https://opengraph.githubassets.com/1/RealRedbaron07/malparibot"
-      alt="malparibot"
-      style="border-radius: 12px;"
-    />
-  </a>
-</p>
+        #projects, #featured-project {
+            margin-top: 40px;
+        }
 
----
+        .icon-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 12px;
+        }
 
-## 🧰 Skills & Tools  
+        .section-box {
+            border-left: 4px solid #444;
+            padding-left: 12px;
+            margin-top: 20px;
+        }
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,python&theme=dark" />
-</p>
+        ul {
+            margin-top: 10px;
+        }
 
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
-</p>
+        .project-item {
+            margin-bottom: 25px;
+        }
 
-### Developer Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse&theme=dark" />
-</p>
+        /* Ensures no fonts cause unsupported symbols */
+        * {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
 
----
+<body>
 
-## 📊 GitHub Stats
+    <!-- HEADER -->
+    <header id="header">
+        <h1>Mustafa Alp ARI</h1>
+        <p>Computer Engineering Student | Java Developer | Trading Systems Enthusiast</p>
+    </header>
 
-<p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=RealRedbaron07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" 
-  />
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRedbaron07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=RealRedbaron07&theme=tokyonight&border_radius=15&hide_border=true" 
-  />
-</p>
+    <!-- ABOUT SECTION -->
+    <section id="about">
+        <h2>About Me</h2>
+        <div class="section-box">
+            <p>
+                I am a computer engineering student with experience in Java, Python-based trading systems,
+                data processing, and API-driven automation. I enjoy working on real-world projects that
+                require engineering thinking and measurable outcomes.
+            </p>
+        </div>
+    </section>
 
----
 
-## 🤝 Connect With Me
+    <!-- FEATURED PROJECT SECTION WITH SVG (NO EMOJI) -->
+    <section id="featured-project">
+        <h2>Featured Project</h2>
 
-<p align="center">
-  <a href="https://ca.linkedin.com/in/mustafa-alp-ari-897621289">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" />
-  </a>
-  <a href="https://instagram.com/malpari07">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" />
-  </a>
-  <a href="mailto:malpari@icloud.com">
-    <img src="https://img.shields.io/badge/Email-8a2be2?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-</p>
+        <div class="icon-row">
+            <!-- SVG ICON (SOLID, NEVER BREAKS) -->
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                <polyline points="2 17 12 22 22 17"></polyline>
+                <polyline points="2 12 12 17 22 12"></polyline>
+            </svg>
 
----
+            <span style="font-size: 1.25rem; font-weight: 500;">Python Trading Bot</span>
+        </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RealRedbaron07&color=8a2be2&style=for-the-badge" />
-</p>
+        <div class="section-box">
+            <p>
+                A Python-based automated trading bot using Streamlit, Yahoo Finance API, and Binance API.
+                This project strengthened my applied algorithmic trading skills, API integration knowledge,
+                and version control experience using Git.
+            </p>
+
+            <ul>
+                <li>Built with Python 3</li>
+                <li>Streamlit interface for live strategy monitoring</li>
+                <li>Yahoo Finance + Binance real-time data feeds</li>
+                <li>Automated buy/sell signal algorithm</li>
+                <li>Git workflow experience (branching, PRs, versioning)</li>
+            </ul>
+        </div>
+    </section>
+
+
+    <!-- OTHER PROJECTS -->
+    <section id="projects">
+        <h2>Other Projects</h2>
+
+        <div class="project-item section-box">
+            <h3>Football Manager Transfer Market Analyzer (Java)</h3>
+            <p>
+                A Java-based analyzer that compares AI vs user transfer decisions using extracted save-file data.
+                Focuses on parsing, aggregation, and trend scoring.
+            </p>
+        </div>
+
+        <div class="project-item section-box">
+            <h3>Java Algorithms Practice Suite</h3>
+            <p>
+                A collection of Java algorithm implementations, including sorting, searching,
+                hashing, array and collection utilities, and interview-style problems.
+            </p>
+        </div>
+    </section>
+
+
+    <!-- CONTACT -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <div class="section-box">
+            <p>Email: example@email.com</p>
+            <p>GitHub: github.com/yourprofile</p>
+        </div>
+    </section>
+
+</body>
+</html>
