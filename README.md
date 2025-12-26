@@ -8,7 +8,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on... **malparibot and JobApplier**
+- 🔭 I’m currently working on... **ScoutLens**
 - 🌱 I’m currently learning... **Python and Java**
 - 📫 How to reach me: **malpari@icloud.com**
 - 💼 Personal Website: https://malpari.vercel.app
