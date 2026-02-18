@@ -21,7 +21,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-ScoutLens-4682B4?style=flat-square" alt="Current Focus"/>
-  <img src="https://img.shields.io/badge/Learning-Python%20%26%20Java-3776AB?style=flat-square&logo=python&logoColor=white" alt="Learning"/>
+  <img src="https://img.shields.io/badge/Learning-Python%20%26%20Java-3776AB?style=flat-square" alt="Learning"/>
   <img src="https://img.shields.io/badge/Location-Toronto%2C%20ON-CD5C5C?style=flat-square" alt="Location"/>
 </p>
 
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
 **Developer Tools**
