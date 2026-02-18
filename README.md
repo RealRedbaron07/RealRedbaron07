@@ -4,6 +4,12 @@
   <em>A Computer Science and Economics student at York University</em>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science-8B4513?style=for-the-badge&logoColor=white" alt="Computer Science"/>
+  <img src="https://img.shields.io/badge/Economics-2C5F2D?style=for-the-badge&logoColor=white" alt="Economics"/>
+  <img src="https://img.shields.io/badge/York%20University-DC143C?style=for-the-badge&logoColor=white" alt="York University"/>
+</p>
+
 ---
 
 ### 🙋‍♂️ About Me
@@ -13,13 +19,19 @@
 - 📫 How to reach me: **malpari@icloud.com**
 - 💼 Personal Website: **https://www.malpari.tech**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-ScoutLens-4682B4?style=flat-square" alt="Current Focus"/>
+  <img src="https://img.shields.io/badge/Learning-Python%20%26%20Java-3776AB?style=flat-square&logo=python&logoColor=white" alt="Learning"/>
+  <img src="https://img.shields.io/badge/Location-Toronto%2C%20ON-CD5C5C?style=flat-square" alt="Location"/>
+</p>
+
 ---
 
 ### 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/RealRedbaron07/malparibot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RealRedbaron07&repo=malparibot&theme=tokyonight" alt="malparibot project card"/>
+  <a href="https://github.com/RealRedbaron07/scoutlens-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RealRedbaron07&repo=scoutlens-app&theme=tokyonight&show_owner=true" alt="ScoutLens App"/>
   </a>
 </p>
 
@@ -41,6 +53,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
 **Developer Tools**
@@ -49,6 +63,16 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+**Databases & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 </p>
 
 ---
@@ -56,11 +80,15 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealRedbaron07&show_icons=true&theme=tokyonight" alt="RealRedbaron07's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RealRedbaron07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRedbaron07&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=RealRedbaron07&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRedbaron07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
