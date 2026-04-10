@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on... **ScoutLens**
 - 🌱 I’m currently learning... **Python and Java**
-- 📫 How to reach me: **malpari@icloud.com**
+- 📫 How to reach me: **malparican@gmail.com.com**
 - 💼 Personal Website: **https://www.malpari.tech**
 
 <p align="left">
